@@ -48,12 +48,12 @@ TABULAR COLUMN
 
 Half wave rectifier with and without filter
 
-
+![image alt](https://github.com/saudhrafi/EXP-4/blob/e61bd73fc881b7ca777ae031396b1ba9e7652cfe/WhatsApp%20Image%202026-03-16%20at%2010.43.47%20AM.jpeg)
 
 TABULAR COLUMN
 
 Full wave rectifier with filter and without filter
-
+![image alt](https://github.com/saudhrafi/EXP-4/blob/e61bd73fc881b7ca777ae031396b1ba9e7652cfe/WhatsApp%20Image%202026-03-16%20at%2010.43.47%20AM%20(1).jpeg)
 
 
 WAVEFORM:
